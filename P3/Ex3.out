@@ -1,0 +1,246 @@
+
+NET:
+==========================================================================
+	discrete places: 1
+	immediate transitions: 0
+	timed transitions: 2
+	constant input arcs: 1
+	constant output arcs: 1
+	constant inhibitor arcs: 1
+	variable input arcs: 0
+	variable output arcs: 0
+	variable inhibitor arcs: 0
+==========================================================================
+
+RG:
+==========================================================================
+	tangible markings: 8
+	vanishing markings: 0
+	marking-to-marking transitions: 14
+==========================================================================
+==========================================================================
+
+                         TIME :   INFINITY
+
+==========================================================================
+EXPECTED: Average Queue Length = 1.19818970841
+EXPECTED: Average Throughput = 0.00669763187131
+EXPECTED: Utilization = 0.697834885815
+EXPECTED: Probability of rejection = 0.000353452044003
+EXPECTED: Probability that queue is empty = 0.302165114185
+EXPECTED: Probability that queue is half full = 0.0862488670714
+==========================================================================
+
+                         TIME :   0.100000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.000669812435014
+EXPECTED: Average Throughput = 3.75094963608e-006
+EXPECTED: Utilization = 0.000669588160741
+EXPECTED: Probability of rejection = 3.92410712168e-020
+EXPECTED: Probability that queue is empty = 0.999330411839
+EXPECTED: Probability that queue is half full = 5.00515526892e-011
+==========================================================================
+
+                         TIME :   0.200000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00133924988007
+EXPECTED: Average Throughput = 7.4997993284e-006
+EXPECTED: Utilization = 0.00133835348516
+EXPECTED: Probability of rejection = 3.92425912738e-020
+EXPECTED: Probability that queue is empty = 0.998661646515
+EXPECTED: Probability that queue is half full = 3.99808460036e-010
+==========================================================================
+
+                         TIME :   0.300000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00200831254511
+EXPECTED: Average Throughput = 1.12465502526e-005
+EXPECTED: Utilization = 0.00200629723482
+EXPECTED: Probability of rejection = -7.84560029171e-020
+EXPECTED: Probability that queue is empty = 0.997993702765
+EXPECTED: Probability that queue is half full = 1.34731904186e-009
+==========================================================================
+
+                         TIME :   0.400000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00267700063994
+EXPECTED: Average Throughput = 1.49912035837e-005
+EXPECTED: Utilization = 0.00267342066897
+EXPECTED: Probability of rejection = -7.8286929231e-020
+EXPECTED: Probability that queue is empty = 0.997326579331
+EXPECTED: Probability that queue is half full = 3.18883145581e-009
+==========================================================================
+
+                         TIME :   0.500000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00334531437427
+EXPECTED: Average Throughput = 1.87337604959e-005
+EXPECTED: Utilization = 0.00333972504456
+EXPECTED: Probability of rejection = -7.75535541378e-020
+EXPECTED: Probability that queue is empty = 0.996660274955
+EXPECTED: Probability that queue is half full = 6.21880167121e-009
+==========================================================================
+
+                         TIME :   0.600000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00401325395768
+EXPECTED: Average Throughput = 2.2474222163e-005
+EXPECTED: Utilization = 0.00400521161627
+EXPECTED: Probability of rejection = 3.31945628041e-021
+EXPECTED: Probability that queue is empty = 0.995994788384
+EXPECTED: Probability that queue is half full = 1.07299017058e-008
+==========================================================================
+
+                         TIME :   0.700000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00468081959964
+EXPECTED: Average Throughput = 2.6212589758e-005
+EXPECTED: Utilization = 0.00466988163644
+EXPECTED: Probability of rejection = 8.82248533407e-020
+EXPECTED: Probability that queue is empty = 0.995330118364
+EXPECTED: Probability that queue is half full = 1.70130276082e-008
+==========================================================================
+
+                         TIME :   0.800000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00534801150949
+EXPECTED: Average Throughput = 2.99488644532e-005
+EXPECTED: Utilization = 0.00533373635518
+EXPECTED: Probability of rejection = -5.37300739312e-020
+EXPECTED: Probability that queue is empty = 0.994666263645
+EXPECTED: Probability that queue is half full = 2.53573074939e-008
+==========================================================================
+
+                         TIME :   0.900000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.00601482989647
+EXPECTED: Average Throughput = 3.36830474203e-005
+EXPECTED: Utilization = 0.00599677702026
+EXPECTED: Probability of rejection = 5.63203642475e-020
+EXPECTED: Probability that queue is empty = 0.99400322298
+EXPECTED: Probability that queue is half full = 3.60501097566e-008
+==========================================================================
+
+                         TIME :   1.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0066812749697
+EXPECTED: Average Throughput = 3.74151398303e-005
+EXPECTED: Utilization = 0.00665900487722
+EXPECTED: Probability of rejection = 1.56718578449e-019
+EXPECTED: Probability that queue is empty = 0.993340995123
+EXPECTED: Probability that queue is half full = 4.93770506833e-008
+==========================================================================
+
+                         TIME :   1.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0066812749697
+EXPECTED: Average Throughput = 3.74151398303e-005
+EXPECTED: Utilization = 0.00665900487722
+EXPECTED: Probability of rejection = 1.56718578449e-019
+EXPECTED: Probability that queue is empty = 0.993340995123
+EXPECTED: Probability that queue is half full = 4.93770506833e-008
+==========================================================================
+
+                         TIME :   2.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0133252393667
+EXPECTED: Average Throughput = 7.46213404533e-005
+EXPECTED: Utilization = 0.0132368513971
+EXPECTED: Probability of rejection = 1.47691716879e-017
+EXPECTED: Probability that queue is empty = 0.986763148603
+EXPECTED: Probability that queue is half full = 3.89122845634e-007
+==========================================================================
+
+                         TIME :   3.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0199321015462
+EXPECTED: Average Throughput = 0.000111619768658
+EXPECTED: Utilization = 0.0197347704594
+EXPECTED: Probability of rejection = 2.45230325013e-016
+EXPECTED: Probability that queue is empty = 0.980265229541
+EXPECTED: Probability that queue is half full = 1.29375374842e-006
+==========================================================================
+
+                         TIME :   4.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0265020687
+EXPECTED: Average Throughput = 0.000148411584717
+EXPECTED: Utilization = 0.0261539707618
+EXPECTED: Probability of rejection = 1.79499692681e-015
+EXPECTED: Probability that queue is empty = 0.973846029238
+EXPECTED: Probability that queue is half full = 3.02119233197e-006
+==========================================================================
+
+                         TIME :   5.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0330353468628
+EXPECTED: Average Throughput = 0.000184997942422
+EXPECTED: Utilization = 0.0324956392593
+EXPECTED: Probability of rejection = 8.36274530812e-015
+EXPECTED: Probability that queue is empty = 0.967504360741
+EXPECTED: Probability that queue is half full = 5.81350826479e-006
+==========================================================================
+
+                         TIME :   6.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0395321409188
+EXPECTED: Average Throughput = 0.000221379989116
+EXPECTED: Utilization = 0.0387609416124
+EXPECTED: Probability of rejection = 2.92791057998e-014
+EXPECTED: Probability that queue is empty = 0.961239058388
+EXPECTED: Probability that queue is half full = 9.89762883085e-006
+==========================================================================
+
+                         TIME :   7.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0459926546079
+EXPECTED: Average Throughput = 0.000257558865732
+EXPECTED: Utilization = 0.0449510226257
+EXPECTED: Probability of rejection = 8.41667916581e-014
+EXPECTED: Probability that queue is empty = 0.955048977374
+EXPECTED: Probability that queue is half full = 1.54860203039e-005
+==========================================================================
+
+                         TIME :   8.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0524170905324
+EXPECTED: Average Throughput = 0.000293535706825
+EXPECTED: Utilization = 0.0510670066761
+EXPECTED: Probability of rejection = 2.09438289675e-013
+EXPECTED: Probability that queue is empty = 0.948932993324
+EXPECTED: Probability that queue is half full = 2.2777341348e-005
+==========================================================================
+
+                         TIME :   9.000000000000
+
+==========================================================================
+EXPECTED: Average Queue Length = 0.0588056501632
+EXPECTED: Average Throughput = 0.000329311640604
+EXPECTED: Utilization = 0.0571099981308
+EXPECTED: Probability of rejection = 4.66778572923e-013
+EXPECTED: Probability that queue is empty = 0.942890001869
+EXPECTED: Probability that queue is half full = 3.19570695685e-005
+==========================================================================
+
+                         TIME :   INFINITY
+
+==========================================================================
+EXPECTED: Expected reward rate of qlength in steady-state = 1.19818970841

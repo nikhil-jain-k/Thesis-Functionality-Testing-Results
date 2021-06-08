@@ -1,0 +1,26 @@
+
+NET:
+==========================================================================
+	discrete places: 5
+	immediate transitions: 3
+	timed transitions: 4
+	constant input arcs: 7
+	constant output arcs: 7
+	constant inhibitor arcs: 2
+	variable input arcs: 0
+	variable output arcs: 0
+	variable inhibitor arcs: 0
+==========================================================================
+
+RG:
+==========================================================================
+	tangible markings: 2
+	vanishing markings: 0
+	marking-to-marking transitions: 2
+==========================================================================
+==========================================================================
+
+                         TIME :   INFINITY
+
+==========================================================================
+EXPECTED: Expected reward rate of rw in steady-state = 0.99983326116
